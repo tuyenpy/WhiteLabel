@@ -1,0 +1,20 @@
+{
+	"DEV": {
+		"appPackage": "com.equixHongKong.dev",
+		"appName": "Equix DEV",
+		"codePushDeploymentKey": "code-123456-dev",
+		"versionApp": "1.0.dev"
+	},
+	"UAT": {
+		"appPackage": "com.equixHongKong.uat",
+		"appName": "Equix UAT",
+		"codePushDeploymentKey": "code-123456-uat",
+		"versionApp": "1.0.uat"
+	},
+	"PRODUCT": {
+		"appPackage": "com.equixHongKong.product",
+		"appName": "Equix PRODUCT",
+		"codePushDeploymentKey": "code-123456-product",
+		"versionApp": "1.0.product"
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "name": "searchReplace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build-dev": "set APPENV=DEV&& node ./WhiteLabel/preset.js",
+    "build-uat": "set APPENV=UAT&&node ./WhiteLabel/preset.js",
+    "build-pro": "set APPENV=PRODUCT&&node ./WhiteLabel/preset.js"
+  }
+}
